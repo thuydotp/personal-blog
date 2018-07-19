@@ -1,0 +1,35 @@
+﻿body {
+    background-color: #F2F2F2;
+}
+
+.main-container {
+    padding-right: 15%;
+    padding-left: 15%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    .main-container .page {
+        background-color: #FFFFFF;
+        /*padding: 20px;*/
+        height: 100vh;
+    }
+
+.page .page-header {
+    background-color: palegoldenrod;
+    margin: 0px;
+    height: 64px;
+}
+
+.page .page-content {
+    background-color: azure;
+    height: 400px;
+}
+
+.page .page-footer {
+    background-color: burlywood;
+    height: 150px;
+}
+
+
+

@@ -42,3 +42,5 @@ D:\Projects\PersonalBlog\PersonalBlog\obj\Debug\netcoreapp2.1\Razor\Views\Catego
 D:\Projects\PersonalBlog\PersonalBlog\obj\Debug\netcoreapp2.1\Razor\Views\Category\Details.g.cshtml.cs
 D:\Projects\PersonalBlog\PersonalBlog\obj\Debug\netcoreapp2.1\Razor\Views\Category\Edit.g.cshtml.cs
 D:\Projects\PersonalBlog\PersonalBlog\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+D:\Projects\PersonalBlog\PersonalBlog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BlogLayout.g.cshtml.cs
+D:\Projects\PersonalBlog\PersonalBlog\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Index.g.cshtml.cs
