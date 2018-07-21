@@ -11,14 +11,10 @@
 
     .main-container .page {
         background-color: #FFFFFF;
-        /*padding: 20px;*/
         height: 100vh;
     }
 
 .page .page-header {
-    background-color: palegoldenrod;
-    margin: 0px;
-    height: 64px;
 }
 
 .page .page-content {
@@ -31,5 +27,34 @@
     height: 150px;
 }
 
+.top-nav {
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    overflow: hidden;
+    border: none;
+    margin: 0px;
+    padding: 25px;
+}
 
+    .top-nav .brand-logo {
+        float: left;
+        font-size: 18px;
+        line-height: 20px;
+        margin-right: 24px;
+    }
 
+    .top-nav a {
+        float: left;
+        color: #40433e;
+        text-transform: uppercase;
+        text-align: center;
+        padding: 0px 16px;
+        text-decoration: none;
+        font-size: 16px;
+    }
+
+        .top-nav a:hover,
+        .top-nav a.active {
+            font-weight: bold;
+        }
